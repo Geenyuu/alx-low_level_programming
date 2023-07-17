@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 
-/***
- * main - entry point
+/**
+ * main - Entry point
  *
  * Description: print value of n status:
  *		greater than, is zero and is not less than 6.
