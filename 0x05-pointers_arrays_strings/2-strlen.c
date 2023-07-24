@@ -1,10 +1,7 @@
-#include <stdio.h>
-
-
 #include "main.h"
 
 /**
- * _strlen _ returns the lentgth of a string
+ * _strlen - returns the lentgth of a string
  *
  * @s: string parameter input
  *
